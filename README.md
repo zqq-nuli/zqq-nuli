@@ -1,5 +1,3 @@
-![Code time](https://wakatime.com/share/@39b0c19d-7fcc-4b43-9359-daca00541231/e07d8a8c-a054-47e5-b563-90ab0ff6498f.svg)  
-
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -47,5 +45,6 @@
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)  
 
-
+### This is my spare worker time.
+![Code time](https://wakatime.com/share/@39b0c19d-7fcc-4b43-9359-daca00541231/e07d8a8c-a054-47e5-b563-90ab0ff6498f.svg)  
 
