@@ -1,3 +1,5 @@
+![Code time](https://wakatime.com/share/@39b0c19d-7fcc-4b43-9359-daca00541231/e07d8a8c-a054-47e5-b563-90ab0ff6498f.svg)  
+
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -46,4 +48,4 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)  
 
 
-![Code time](https://wakatime.com/share/@39b0c19d-7fcc-4b43-9359-daca00541231/e07d8a8c-a054-47e5-b563-90ab0ff6498f.svg)
+
