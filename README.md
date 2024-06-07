@@ -14,9 +14,9 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three\.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node\.js-393?logo=nodedotjs&logoColor=fff&style=flat)  
+![Node.js Badge](https://img.shields.io/badge/Node\.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+![Webpack Badge](https://img.shields.io/badge/Webpack-8dd6f980?logo=webpack&logoColor=fff&style=flat)  
 
 
 ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)
