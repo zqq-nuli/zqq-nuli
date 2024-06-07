@@ -45,6 +45,7 @@
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)  
 
-### This is my spare worker time.
+### This is when I code on my own, outside of my regular work hours.
+### I'm eagerly anticipating the opportunity to work remotely.
 ![Code time](https://wakatime.com/share/@39b0c19d-7fcc-4b43-9359-daca00541231/e07d8a8c-a054-47e5-b563-90ab0ff6498f.svg)  
 
