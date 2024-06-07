@@ -46,4 +46,4 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)  
 
 
-![Code time](https://wakatime.com/share/@39b0c19d-7fcc-4b43-9359-daca00541231/76481941-c931-48c7-8c45-bc425b38dcb8.svg)
+![Code time]([https://wakatime.com/share/@39b0c19d-7fcc-4b43-9359-daca00541231/76481941-c931-48c7-8c45-bc425b38dcb8.svg](https://wakatime.com/share/@39b0c19d-7fcc-4b43-9359-daca00541231/e07d8a8c-a054-47e5-b563-90ab0ff6498f.svg))
