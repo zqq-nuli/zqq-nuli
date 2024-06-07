@@ -43,5 +43,7 @@
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Adobe PreMider Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=fff&style=flat)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-<figure><embed src="https://wakatime.com/share/@39b0c19d-7fcc-4b43-9359-daca00541231/76481941-c931-48c7-8c45-bc425b38dcb8.svg"></embed></figure>
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)  
+
+
+![Code time](https://wakatime.com/share/@39b0c19d-7fcc-4b43-9359-daca00541231/76481941-c931-48c7-8c45-bc425b38dcb8.svg)
