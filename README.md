@@ -50,7 +50,5 @@
   <img src="https://wakatime.com/share/@39b0c19d-7fcc-4b43-9359-daca00541231/8958b33c-0743-46cc-987c-95f9999277f8.svg" alt="Image 1" style="width: 49%; margin: 1%;">
   <img src="https://wakatime.com/share/@39b0c19d-7fcc-4b43-9359-daca00541231/e07d8a8c-a054-47e5-b563-90ab0ff6498f.svg" alt="Image 2" style="width: 49%; margin: 1%;">
 </div>
-<!-- ### I'm eagerly anticipating the opportunity to work remotely. -->
-![Code time](https://wakatime.com/share/@39b0c19d-7fcc-4b43-9359-daca00541231/8958b33c-0743-46cc-987c-95f9999277f8.svg)
-![Code time](https://wakatime.com/share/@39b0c19d-7fcc-4b43-9359-daca00541231/e07d8a8c-a054-47e5-b563-90ab0ff6498f.svg)  
+<!-- ### I'm eagerly anticipating the opportunity to work remotely. --> 
 
