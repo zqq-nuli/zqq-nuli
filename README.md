@@ -45,7 +45,6 @@
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)  
 
-<p>须知少时凌云志，曾许人间第一流。夜阑每抚旧书箧，始信萤囊胜楚囚。</p>
 
 <!--  ### My private coding time.  --> 
 <div style="display: flex; justify-content: space-between;">
